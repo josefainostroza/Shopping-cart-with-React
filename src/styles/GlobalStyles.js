@@ -23,5 +23,12 @@ export const GlobalStyles = createGlobalStyle`
         text-decoration: none;
         color: inherit;
     }
+    body{
+        font-family:'Red Hat Text';  
+        padding: 100px 10px ;
+        }
 
+    h1,h2,p{
+    margin: 0;
+        }
 `;
